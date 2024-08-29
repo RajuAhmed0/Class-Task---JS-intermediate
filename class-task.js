@@ -9,7 +9,7 @@
 
 // Task - 3
  const number = (a, b=10) => a+b;
-// console.log(number(20)); //ans
+// console.log(number(20)); //anss
 
 
 // Problem - 2
